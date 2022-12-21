@@ -24,3 +24,4 @@ server.use((req: Request, res: Response) => {
 });
 
 server.listen(process.env.PORT);
+// by Wilson M.J Cortez 2022
